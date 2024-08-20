@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Футболка з принтом Марио",
+      "category": "Футболки",
+      "price": 24.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Червоний", "Синій", "Чорний"],
+      "image": "https://example.com/images/mario-tshirt.jpg",
+      "description": "Футболка з класичним принтом Марио з гри Super Mario. Ідеально підходить для фанатів Nintendo."
+    },
+    {
+      "id": 2,
+      "name": "Футболка з принтом Лінка",
+      "category": "Футболки",
+      "price": 29.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Зелений", "Білий", "Сірий"],
+      "image": "https://example.com/images/link-tshirt.jpg",
+      "description": "Футболка з принтом Лінка з гри The Legend of Zelda. Відзначте свою любов до пригод у Хайрулі."
+    },
+    {
+      "id": 3,
+      "name": "Футболка з принтом Дюка Нюкема",
+      "category": "Футболки",
+      "price": 26.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Чорний", "Темно-синій"],
+      "image": "https://example.com/images/duke-nukem-tshirt.jpg",
+      "description": "Футболка з принтом Дюка Нюкема з гри Duke Nukem. Для тих, хто любить класичні шутери та дотепні фрази."
+    },
+    {
+      "id": 4,
+      "name": "Футболка з принтом Дарт Вейдера",
+      "category": "Футболки",
+      "price": 22.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Чорний", "Сірий"],
+      "image": "https://example.com/images/darth-vader-tshirt.jpg",
+      "description": "Футболка з принтом Дарт Вейдера з серії Star Wars. Підходить для шанувальників всесвіту Star Wars."
+    },
+    {
+      "id": 5,
+      "name": "Футболка з принтом Сомбра",
+      "category": "Футболки",
+      "price": 27.99,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Фіолетовий", "Чорний"],
+      "image": "https://example.com/images/sombra-tshirt.jpg",
+      "description": "Футболка з принтом Сомбра з гри Overwatch. Ідеальна для фанатів цього популярного шутера."
+    }
+  ]  
