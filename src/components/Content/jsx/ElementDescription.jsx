@@ -1,3 +1,5 @@
+import '../css/ElementDescription.css'
+
 function ElementDescription({ imageURL, alt, name, price}) {
     return (
         <>

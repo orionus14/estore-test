@@ -1,5 +1,6 @@
-import products from '../../data/products.json';
+import products from '../../../data/products.json';
 import ElementDescription from './ElementDescription';
+import '../css/TshirtElements.css'
 
 function TshirtElements() {
     return (

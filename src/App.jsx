@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Content from './components/Content/Content'
+import Content from './components/Content/jsx/Content'
 
 function App() {
   return <Content></Content>

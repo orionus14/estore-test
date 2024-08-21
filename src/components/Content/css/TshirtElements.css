@@ -1,0 +1,11 @@
+.list {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.list-elem {
+    width: 30%;
+    margin: 50px;
+}
