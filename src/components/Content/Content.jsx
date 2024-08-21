@@ -1,7 +1,7 @@
-import TshirtElement from './TshirtElement'
+import TshirtElements from './TshirtElements'
 
 function Content() {
-    return <TshirtElement></TshirtElement>
+    return <TshirtElements></TshirtElements>
 }
 
 export default Content;
